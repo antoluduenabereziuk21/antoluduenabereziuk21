@@ -1,49 +1,118 @@
+<h1 align="center">Hola 👋, soy Antonio Ludueña Bereziuk</h1>
+<h3 align="center">Desarrollador Backend Java | Entusiasta de Microservicios | Explorador Full Stack</h3>
 
-<h1 align="center"> Hi 👋, I'm Antonio Ludueña Bereziuk</h1>
-<h3 align="center"> A Full Stack Developer from Argentina</h3>
-<article>
-<h3 align="center">Connect with me:</h3>
-<p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/antonioluduenabereziuk/"><img align="center" src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="antonio'ludueña'bereziuk" height="40" width="40" style="max-width: 100%;"></a>
+<p align="center"> 
+  Desarrollador backend apasionado, especializado en la construcción de aplicaciones escalables y seguras con Java, Spring Boot y Docker. Disfruto trabajar con arquitecturas de microservicios, desarrollo de APIs y soluciones en la nube. Actualmente explorando tecnologías frontend como Angular y mejorando mis habilidades full-stack.
 </p>
-</article>
-<hr></hr>
-<h4 align="center">Languages & tools that I use work with:</h4>
+
+<h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-<a href="https://www.java.com/es/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="mysql" width="60" height="60" style="max-width: 100%;"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
-</p>
-<p  align="center">
-</a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-<br>
-
-<p align="center" dir="auto">
-<a href="https://es.react.dev/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"/></a>   
-<a href="https://angular.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/9eecc42439347332f256a326363924551042f5b96235f972982512199476611a/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" style="max-width: 100%;"/></a> 
+  <a href="https://www.linkedin.com/in/antonioluduenabereziuk/">
+    <img src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="LinkedIn" height="40" width="40">
+  </a>
 </p>
 
-<br>
-<p align="center" dir="auto"> 
-<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" style="max-width: 100%;"> </a>
-<a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" style="max-width: 100%;"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<hr>
+
+<h3 align="center">Tecnologías y herramientas:</h3>
+<p align="center">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="60" height="60">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60">
+  </a>
 </p>
-<!--
-**antoluduenabereziuk21/antoluduenabereziuk21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### Sobre mí:
+- 🔭 Actualmente estoy trabajando en la construcción de arquitecturas de microservicios con Spring Cloud, Eureka y API Gateway.
+- 🌱 Siempre aprendiendo nuevas tecnologías, explorando seguridad en microservicios (OAuth, JWT, Keycloak).
+- 👯 Buscando colaborar en proyectos backend con Java o soluciones full stack.
+- 💬 Pregúntame sobre cualquier tema relacionado con Java, Spring Boot, Docker y diseño de APIs.
+- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/antonioluduenabereziuk/)
+
+### Dato curioso:
+⚡ Me apasiona optimizar procesos y la automatización. Recientemente trabajé en un bot de WhatsApp para pedidos de comida usando Spring Boot y Node.js.
+
+---
+
+<details>
+<summary>Click aquí para leer en inglés</summary>
+
+<h1 align="center">Hi 👋, I'm Antonio Ludueña Bereziuk</h1>
+<h3 align="center">Java Backend Developer | Microservices Enthusiast | Full Stack Explorer</h3>
+
+<p align="center"> 
+  Passionate backend developer with a focus on building scalable and secure applications using Java, Spring Boot, and Docker. I enjoy working with microservices architecture, API development, and cloud solutions. Currently exploring frontend technologies like Angular and enhancing my full-stack skills.
+</p>
+
+<h3 align="center">Let's Connect:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonioluduenabereziuk/">
+    <img src="https://user-images.githubusercontent.com/83146564/134292366-61b21a2b-d31c-4b98-921c-1b12c6a09aa8.png" alt="LinkedIn" height="40" width="40">
+  </a>
+</p>
+
+<hr>
+
+<h3 align="center">Tech Stack & Tools:</h3>
+<p align="center">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60" height="60">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="60" height="60">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40">
+  </a>
+</p>
+
+<hr>
+
+### About Me:
+- 🔭 I’m currently working on building microservices architectures with Spring Cloud, Eureka, and API Gateway.
+- 🌱 Constantly learning new technologies, currently exploring security in microservices (OAuth, JWT, Keycloak).
+- 👯 I’m looking to collaborate on backend Java projects or full-stack solutions.
+- 💬 Ask me about anything related to Java, Spring Boot, Docker, and API design.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/antonioluduenabereziuk/)
+
+### Fun fact:
+⚡ I’m passionate about optimizing processes and automation, recently worked on a WhatsApp bot for food delivery using Spring Boot and Node.js.
+
+</details>
